@@ -38,3 +38,9 @@ Poole and it's themes are by preference a forward-thinking project. In addition 
 Poole is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+
+----
+
+[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/)
+[poole theme](https://github.com/poole/poole)
+[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
