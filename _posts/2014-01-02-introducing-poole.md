@@ -41,6 +41,6 @@ Thanks!
 
 ----
 
-[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/)
-[poole theme](https://github.com/poole/poole)
-[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
+[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/).
+[poole theme](https://github.com/poole/poole).
+<sup>[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/).</sup>
