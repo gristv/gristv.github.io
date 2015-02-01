@@ -41,7 +41,9 @@ Thanks!
 
 ----
 
-{% highlight python linenos %}
+*Ejemplo de codigo (ver el código fuente)*
+
+{% highlight python %}
 #-*- coding: utf-8 -*-
 from flask.ext.wtf import Form
 from wtforms import StringField, BooleanField, TextAreaField
