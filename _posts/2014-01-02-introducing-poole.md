@@ -45,3 +45,4 @@ Thanks!
 <sup>[poole theme](https://github.com/poole/poole)</sup><br>
 <sup>[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)</sup><br>
 <sup>[Jekyll-syntas. All jekyll pygment variations of syntax.css](https://github.com/iwootten/jekyll-syntax)</sup><br>
+<sup>[Pygments home](http://pygments.org/)</sup><br>
