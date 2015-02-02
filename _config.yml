@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Sin nombre
-tagline:          The Jekyll Butler
+title:            Todavía sin nombre
+tagline:          Un sitio para colgar mis apuntes ...
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /
