@@ -434,7 +434,7 @@ footer{
    text-align: center; 
    @include font-size(8); 
    font-style: italic; 
-   color: #a9a9a9;
+   color: #bababa;
    background-color:#212121;
 }  
   
