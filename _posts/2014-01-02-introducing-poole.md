@@ -88,3 +88,4 @@ class SearchForm(Form):
 <sup>[Jekyll-syntax. All jekyll pygment variations of syntax.css](https://github.com/iwootten/jekyll-syntax)</sup><br>
 <sup>[Pygments home](http://pygments.org/)</sup><br>
 <sup>[Jekyll home](http://jekyllrb.com/)</sup><br>
+<sup>[kramdown Syntax](http://kramdown.gettalong.org/syntax.html)</sup><br>
