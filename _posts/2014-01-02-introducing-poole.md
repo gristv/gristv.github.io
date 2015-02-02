@@ -82,6 +82,68 @@ class SearchForm(Form):
     search = StringField('search', validators=[DataRequired()])
 {% endhighlight %}
 
+{%  highlight java %}
+/**
+     * Clase privada para implementar los criterios de agrupación por cada tpAct.
+     * 
+     * @param E String que representa una categoria por la que agrupar
+     * @param T Entidad por la que agrupamos los resultados del informe para un tpAct.
+    */
+    private class CategoriasAgrupacion<T, E> {
+       
+        /** lista textos categoria */
+        private List<T> lTxtCategoria;
+        
+        /** lista entidad categoria */
+        private List<E> lObjCategoria;
+        
+        /** tpAct de este objeto */
+        private TpAct tpAct;
+        
+        /** Constructor */
+        public CategoriasAgrupacion() {
+            lTxtCategoria = new ArrayList<T>();
+            lObjCategoria = new ArrayList<E>();
+        }
+        
+        /** 
+         * Método para añadir elementos a la lista de textos de categoria.  
+         * @param item Texto de la categoria 
+         */
+        public void addTexto(T item) {
+            lTxtCategoria.add(item);
+        }
+
+        /** 
+         * Método para añadir lista de objetos a la categoria.  
+         * @param item Objejo de la categoria 
+         */
+        public void addObjeto(List<E> item) {
+            lObjCategoria.addAll(item);
+        }
+
+        /** @return Lista de textos de categorias por las que agrupar*/
+        public List<T> getlTxtCategoria() {
+            return lTxtCategoria;
+        }
+
+        /** @return Lista de entidades de categorias por las que agrupar*/
+        public List<E> getlObjCategoria() {
+            return lObjCategoria;
+        }
+        
+        /** @return tpAct Devuelve el tipo de actuación de las categorias de agrupación */
+        public TpAct getTpAct() {
+            return tpAct;
+        }
+        
+        /**@param tpAct Establece el tipo de actuación de las categorias de agrupación */
+        public void setTpAct(TpAct tpAct) {
+            this.tpAct = tpAct;
+        }
+    }
+{% endhighlight %}
+
 <sup>[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/){:target="_blank"}</sup><br>
 <sup>[poole theme](https://github.com/poole/poole){:target="_blank"}</sup><br>
 <sup>[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/){:target="_blank"}</sup><br>
