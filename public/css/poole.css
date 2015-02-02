@@ -432,7 +432,7 @@ footer{
    @include clearfix; 
    margin: 2em auto; 
    text-align: center; 
-   @include font-size(8); 
+   @include font-size(0.7em); 
    font-style: italic; 
    color: #bababa;
    background-color:#212121;
