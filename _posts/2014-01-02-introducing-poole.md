@@ -82,10 +82,10 @@ class SearchForm(Form):
     search = StringField('search', validators=[DataRequired()])
 {% endhighlight %}
 
-<sup>[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/)</sup><br>
-<sup>[poole theme](https://github.com/poole/poole)</sup><br>
-<sup>[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)</sup><br>
+<sup>[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/){:target="_blank"}</sup><br>
+<sup>[poole theme](https://github.com/poole/poole){:target="_blank"}</sup><br>
+<sup>[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/){:target="_blank"}</sup><br>
 <sup>[Jekyll-syntax. All jekyll pygment variations of syntax.css](https://github.com/iwootten/jekyll-syntax)</sup><br>
-<sup>[Pygments home](http://pygments.org/)</sup><br>
-<sup>[Jekyll home](http://jekyllrb.com/)</sup><br>
-<sup>[kramdown Syntax](http://kramdown.gettalong.org/syntax.html)</sup><br>
+<sup>[Pygments home](http://pygments.org/){:target="_blank"}</sup><br>
+<sup>[Jekyll home](http://jekyllrb.com/){:target="_blank"}</sup><br>
+<sup>[kramdown Syntax](http://kramdown.gettalong.org/syntax.html){:target="_blank"}</sup><br>
