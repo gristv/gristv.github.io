@@ -432,11 +432,11 @@ footer{
    @include clearfix; 
    margin: 2em auto; 
    text-align: center; 
-   font-family: $alt-font; 
-   @include font-size(14); 
+   @include font-size(12); 
    font-style: italic; 
    color: white;
-   background-color:#3a3a3a;
+   background-color:#323232;
+   height:40px;
 }  
   
 }
