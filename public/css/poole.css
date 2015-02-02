@@ -430,9 +430,8 @@ a.pagination-item:hover {
 
 footer{
    @include clearfix; 
-   margin: 2em auto; 
+   margin: 10em auto; 
    text-align: center; 
-   @include font-size(0.7em); 
    font-style: italic; 
    color: #bababa;
    background-color:#212121;
