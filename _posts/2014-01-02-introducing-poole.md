@@ -43,7 +43,7 @@ Thanks!
 
 *Ejemplo de codigo (ver el código fuente)*
 
-{% highlight python %}
+{% highlight ruby %}
 #-*- coding: utf-8 -*-
 from flask.ext.wtf import Form
 from wtforms import StringField, BooleanField, TextAreaField
