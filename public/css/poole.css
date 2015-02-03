@@ -27,8 +27,8 @@
  * Reverse layout
  * Themes
  */
-@import url('http://fonts.googleapis.com/css?family=Crimson+Text');
-@import url('http://fonts.googleapis.com/css?family=Allerta');
+@import url('http://fonts.googleapis.com/css?family=Molengo');
+@import url('http://fonts.googleapis.com/css?family=Lekton');
 
 /*
  * Body resets
@@ -49,7 +49,7 @@ body {
 }
 
 html {
-  font-family:'Allerta', Helvetica, Arial, sans-serif;
+  font-family:'Lekton', Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
 }
