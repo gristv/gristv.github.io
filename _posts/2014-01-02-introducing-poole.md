@@ -89,3 +89,12 @@ class SearchForm(Form):
 <sup>[Pygments home](http://pygments.org/){:target="_blank"}</sup><br>
 <sup>[Jekyll home](http://jekyllrb.com/){:target="_blank"}</sup><br>
 <sup>[kramdown Syntax](http://kramdown.gettalong.org/syntax.html){:target="_blank"}</sup><br>
+
+<sup>[How to Learn Web Design](https://ash.guru/how-to-learn-web-design/){:target="_blank"}</sup><br>
+<sup>[Recursos web jquery](http://www.unheap.com/){:target="_blank"}</sup><br>
+<sup>[10 Great Google Font Combinations You Can Copy](http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/){:target="_blank"}</sup><br>
+<sup>[Stop Using Arial & Helvetica](http://www.64notes.com/design/stop-helvetica-arial/){:target="_blank"}</sup><br>
+<sup>[Colores y paletas](http://www.color-hex.com/){:target="_blank"}</sup><br>
+<sup>[Más colores y paletas](https://mudcu.be/sphere/){:target="_blank"}</sup><br>
+
+
