@@ -82,19 +82,19 @@ class SearchForm(Form):
     search = StringField('search', validators=[DataRequired()])
 {% endhighlight %}
 
-<sup>[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/){:target="_blank"}</sup><br>
-<sup>[poole theme](https://github.com/poole/poole){:target="_blank"}</sup><br>
-<sup>[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/){:target="_blank"}</sup><br>
-<sup>[Jekyll-syntax. All jekyll pygment variations of syntax.css](https://github.com/iwootten/jekyll-syntax)</sup><br>
-<sup>[Pygments home](http://pygments.org/){:target="_blank"}</sup><br>
-<sup>[Jekyll home](http://jekyllrb.com/){:target="_blank"}</sup><br>
-<sup>[kramdown Syntax](http://kramdown.gettalong.org/syntax.html){:target="_blank"}</sup><br>
+[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/){:target="_blank"}<br>
+[poole theme](https://github.com/poole/poole){:target="_blank"}<br>
+[How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/){:target="_blank"}<br>
+[Jekyll-syntax. All jekyll pygment variations of syntax.css](https://github.com/iwootten/jekyll-syntax)<br>
+[Pygments home](http://pygments.org/){:target="_blank"}<br>
+[Jekyll home](http://jekyllrb.com/){:target="_blank"}<br>
+[kramdown Syntax](http://kramdown.gettalong.org/syntax.html){:target="_blank"}<br>
 
-<sup>[How to Learn Web Design](https://ash.guru/how-to-learn-web-design/){:target="_blank"}</sup><br>
-<sup>[Recursos web jquery](http://www.unheap.com/){:target="_blank"}</sup><br>
-<sup>[10 Great Google Font Combinations You Can Copy](http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/){:target="_blank"}</sup><br>
-<sup>[Stop Using Arial & Helvetica](http://www.64notes.com/design/stop-helvetica-arial/){:target="_blank"}</sup><br>
-<sup>[Colores y paletas](http://www.color-hex.com/){:target="_blank"}</sup><br>
-<sup>[Más colores y paletas](https://mudcu.be/sphere/){:target="_blank"}</sup><br>
+[How to Learn Web Design](https://ash.guru/how-to-learn-web-design/){:target="_blank"}<br>
+<[Recursos web jquery](http://www.unheap.com/){:target="_blank"}<br>
+[10 Great Google Font Combinations You Can Copy](http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/){:target="_blank"}<br>
+[Stop Using Arial & Helvetica](http://www.64notes.com/design/stop-helvetica-arial/){:target="_blank"}<br>
+[Colores y paletas](http://www.color-hex.com/){:target="_blank"}<br>
+[Más colores y paletas](https://mudcu.be/sphere/){:target="_blank"}<br>
 
 
