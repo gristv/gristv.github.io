@@ -13,6 +13,12 @@ author:
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 
+# dictionary of pages to show in my header
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 # Custom vars
 version:          1.0.0
 github:
