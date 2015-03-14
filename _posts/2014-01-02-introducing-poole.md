@@ -98,7 +98,7 @@ class SearchForm(Form):
 [Más colores y paletas](https://mudcu.be/sphere/){:target="_blank"}<br>
 [¿Cómo implementar plugins en GitHub 1?](http://charliepark.org/jekyll-with-plugins/){:target="_blank"}<br>
 [¿Cómo implementar plugins en GitHub 2?](http://arademaker.github.io/blog/2011/12/01/github-pages-jekyll-plugins.html){:target="_blank"}<br>
-[¿Cómo implementar plugins en GitHub 3?](http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html{:target="_blank"}<br>
+[¿Cómo implementar plugins en GitHub 3?](http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html){:target="_blank"}<br>
 
 
 
