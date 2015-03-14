@@ -91,10 +91,14 @@ class SearchForm(Form):
 [kramdown Syntax](http://kramdown.gettalong.org/syntax.html){:target="_blank"}<br>
 
 [How to Learn Web Design](https://ash.guru/how-to-learn-web-design/){:target="_blank"}<br>
-<[Recursos web jquery](http://www.unheap.com/){:target="_blank"}<br>
+[Recursos web jquery](http://www.unheap.com/){:target="_blank"}<br>
 [10 Great Google Font Combinations You Can Copy](http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/){:target="_blank"}<br>
 [Stop Using Arial & Helvetica](http://www.64notes.com/design/stop-helvetica-arial/){:target="_blank"}<br>
 [Colores y paletas](http://www.color-hex.com/){:target="_blank"}<br>
 [Más colores y paletas](https://mudcu.be/sphere/){:target="_blank"}<br>
+[¿Cómo implementar plugins en GitHub 1?]{http://charliepark.org/jekyll-with-plugins/}<br>
+[¿Cómo implementar plugins en GitHub 2?]{http://arademaker.github.io/blog/2011/12/01/github-pages-jekyll-plugins.html}<br>
+[¿Cómo implementar plugins en GitHub 3?]{http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html}<br>
+[]{}<br>
 
 
