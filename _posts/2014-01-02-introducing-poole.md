@@ -110,6 +110,8 @@ class SearchForm(Form):
 [Compass home](http://compass-style.org/){:target="_blank"}<br>
 [Tutorial de Compass y Sass](http://www.intersencia.com/blog/tutorial-de-sass-y-compass/){:target="_blank"}<br>
 [The Sass Way](http://thesassway.com/){:target="_blank"}<br>
+[Introducción a Sass y Compass](http://www.cristalab.com/tutoriales/introduccion-a-sass-y-compass-c111623l/){:target="_blank"}<br>
+[Ejemplo de graidentes y texto 3 D con Sass y Compass](http://www.cristalab.com/tutoriales/colores-gradientes-y-texto-3d-con-sass-y-compass-c111672l/){:target="_blank"}<br>
 [Manual bootstrap 3 (spanish)](http://librosweb.es/libro/bootstrap_3/){:target="_blank"}<br>
 [How to Learn Web Design](https://ash.guru/how-to-learn-web-design/){:target="_blank"}<br>
 [Recursos web jquery](http://www.unheap.com/){:target="_blank"}<br>
