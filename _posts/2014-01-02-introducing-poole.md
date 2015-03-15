@@ -82,23 +82,31 @@ class SearchForm(Form):
     search = StringField('search', validators=[DataRequired()])
 {% endhighlight %}
 
+
 *Temas Jekyll*
+
 [so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/){:target="_blank"}<br>
 [poole theme](https://github.com/poole/poole){:target="_blank"}<br>
+
 *Jekyll general*
+
 [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/){:target="_blank"}<br>
 [Jekyll-syntax. All jekyll pygment variations of syntax.css](https://github.com/iwootten/jekyll-syntax)<br>
 [Pygments home](http://pygments.org/){:target="_blank"}<br>
 [Jekyll home](http://jekyllrb.com/){:target="_blank"}<br>
 [kramdown Syntax](http://kramdown.gettalong.org/syntax.html){:target="_blank"}<br>
+
 *Jekyll plugins*
+
 [Colección de plugins indispensables](https://divshot.com/blog/web-development/advanced-jekyll-features/){:target="_blank"}<br>
 [Plugins Jekyll](http://www.jekyll-plugins.com/){}<br>
 [Asset bundling with Jekyll - Cómo construir asset Jekyll (agrupar en un solo archivo el  código estático: css, js, images, etc)](http://tkareine.org/blog/2013/02/22/asset-bundling-with-jekyll/){}<br>
 [¿Cómo implementar plugins en GitHub 1?](http://charliepark.org/jekyll-with-plugins/){:target="_blank"}<br>
 [¿Cómo implementar plugins en GitHub 2?](http://arademaker.github.io/blog/2011/12/01/github-pages-jekyll-plugins.html){:target="_blank"}<br>
 [¿Cómo implementar plugins en GitHub 3?](http://blog.nitrous.io/2013/08/30/using-jekyll-plugins-on-github-pages.html){:target="_blank"}<br>
+
 *Diseño web*
+
 [Compass home](http://compass-style.org/){}<br>
 [Tutorial de Compass y Sass](http://www.intersencia.com/blog/tutorial-de-sass-y-compass/){:target="_blank"}<br>
 [How to Learn Web Design](https://ash.guru/how-to-learn-web-design/){:target="_blank"}<br>
