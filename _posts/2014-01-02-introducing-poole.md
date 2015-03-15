@@ -85,7 +85,7 @@ class SearchForm(Form):
 
 *Temas Jekyll*
 
-> [so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/){:target="_blank"}<br>
+[so-simple-theme](http://mmistakes.github.io/so-simple-theme/theme-setup/){:target="_blank"}<br>
 [poole theme](https://github.com/poole/poole){:target="_blank"}<br>
 
 *Jekyll general*
