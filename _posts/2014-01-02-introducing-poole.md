@@ -119,7 +119,7 @@ class SearchForm(Form):
 [Recursos web jquery](http://www.unheap.com/){:target="_blank"}<br>
 [10 Great Google Font Combinations You Can Copy](http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/){:target="_blank"}<br>
 [Stop Using Arial & Helvetica](http://www.64notes.com/design/stop-helvetica-arial/){:target="_blank"}<br>
-[Sitio para bajar fuentes free](http://www.fontsquirrel.com/){:target="_blank"}<br>
+[Fontsquirrel - Sitio para bajar fuentes free](http://www.fontsquirrel.com/){:target="_blank"}<br>
 [Colores y paletas](http://www.color-hex.com/){:target="_blank"}<br>
 [Más colores y paletas](https://mudcu.be/sphere/){:target="_blank"}<br>
 
