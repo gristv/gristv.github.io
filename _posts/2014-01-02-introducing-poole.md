@@ -98,6 +98,7 @@ class SearchForm(Form):
 [Jekyll From Scratch - Getting Started](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/){:target="_blank"}<br>
 [Jekyll From Scratch - Core Architecture](http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/){:target="_blank"}<br>
 [Jekyll From Scratch - Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/#contact-forms-with-jotform){:target="_blank"}<br>
+[¿Cómo hice el blog? - Raúl Ávila](http://raulavila.com/2015/01/como-hice-el-blog/){:target="_blank"}<br>
 
 *Jekyll plugins*
 
