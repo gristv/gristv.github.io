@@ -95,6 +95,9 @@ class SearchForm(Form):
 [Pygments home](http://pygments.org/){:target="_blank"}<br>
 [Jekyll home](http://jekyllrb.com/){:target="_blank"}<br>
 [kramdown Syntax](http://kramdown.gettalong.org/syntax.html){:target="_blank"}<br>
+[Jekyll From Scratch - Getting Started](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/){:target="_blank"}<br>
+[Jekyll From Scratch - Core Architecture](http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/){:target="_blank"}<br>
+[Jekyll From Scratch - Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/#contact-forms-with-jotform){:target="_blank"}<br>
 
 *Jekyll plugins*
 
