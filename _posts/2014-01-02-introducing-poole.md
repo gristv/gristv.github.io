@@ -126,4 +126,5 @@ class SearchForm(Form):
 [Fontsquirrel - Sitio para bajar fuentes free](http://www.fontsquirrel.com/){:target="_blank"}<br>
 [Colores y paletas](http://www.color-hex.com/){:target="_blank"}<br>
 [Más colores y paletas](https://mudcu.be/sphere/){:target="_blank"}<br>
+[Idea para la cabecera - Código de barras](http://www.desarrollomultimedia.es/articulos/crear_un_codigo_de_barras_photoshop.html){:target="_blank"}<br>
 
